@@ -1,8 +1,6 @@
 # Minimalist Portfolio
 
 This project is a minimalist portfolio for a developer, created as a learning exercise to understand the basics of HTML and CSS.
- *This project was built by following a youtube tutorial. You can find the full video here:*
-📺 [Responsive Portfolio Website From Scratch](https://www.youtube.com/watch?v=ldwlOzRvYOU)
 
 The portfolio showcases a clean design, featuring sections for About, Experience, Projects, and Contact.
 
